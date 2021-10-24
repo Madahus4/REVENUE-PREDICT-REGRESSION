@@ -34,6 +34,7 @@ After performing the initial EDA After cleaning the data, we got **1,500 rows** 
 * Model 4: Decision Tree
 * Model 5: Polynomial linear model(degree 2) 
 Model Evaluation and Selection (by comparing validation score & RMSE )
+
 **Final model:** refit K Neighbors Regression model 
 * **val score: 0.875927; test score: 0.891178**
 
