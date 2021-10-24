@@ -7,8 +7,10 @@ The project’s goal is to help movie revenue firms determine which movies will 
 # Data
 The data that was used in this project is from IMDB and The Numbers.The data of these two website was represented in **10,000 rows** and **51 columns**.
 After performing the initial EDA After cleaning the data, we got **1,500 rows** and **10 columns**.
+
 **Target:**
 * The Worldwide Revenue
+
 **Features:**
 * Budget,
 * Domistc Revenue ,
