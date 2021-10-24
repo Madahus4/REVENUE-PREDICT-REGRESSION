@@ -1,6 +1,7 @@
 # IMDb Regression
 
 **Goal of the project**
+
 The core objective of this project is to predict the revenue for each movie through the actor score.
 
 
