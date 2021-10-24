@@ -30,7 +30,7 @@ After performing the initial EDA After cleaning the data, we got **1,500 rows** 
 * Select the best model among feature engineering models Models: 
 * Model 1: Simple linear model
 * Model 2: Random Forest Regressor Regression.
-* **Model 3: K Neighbors Regression
+* **Model 3: K Neighbors Regression**
 * Model 4: Decision Tree
 * Model 5: Polynomial linear model(degree 2) 
 Model Evaluation and Selection (by comparing validation score & RMSE )
