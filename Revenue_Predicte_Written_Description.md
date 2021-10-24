@@ -1,10 +1,10 @@
 # Abstract
 The main goal of this project is to predict worldwide Revenue based on features of **IMDb** and **The Number** websites.
 
-# Design:
+# Design
 The project’s goal is to help movie revenue firms determine which movies will result in a high worldwide gross. Movies have many features that may impact their success including a budget, release date, genre and Actor score, and various others. In order to analyze these features, it is first prudent to choose the most transparent resource, which in this case was IMDb and The  Numbers. First, web scrapping is critical to draw data effectively and efficiently. Once data is collected, the next step EDA involved applying pairplot and heatmap to draw insights from the data. Afterward, it involves using sklearn Linear Regression, Random Forest Regressor Regression, K Neighbors Regression, Decision Tree and Polynomial Regression Models to compare model evaluations based on the result of R-square and Mean Absolute Error.
 
-# Data:
+# Data
 The data that was used in this project is from IMDB and The Numbers.The data of these two website was represented in **10,000 rows** and **51 columns**.
 After performing the initial EDA After cleaning the data, we got **1,500 rows** and **10 columns**.
 **Target:**
