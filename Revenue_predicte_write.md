@@ -17,10 +17,10 @@ After performing the initial EDA After cleaning the data, we got **1,500 rows** 
 * Actor Score,
 * Movie age
 
-# Methodology:
-** Web Scrapping **
+# Methodology
+**Web Scrapping**
 1. Used BeautifulSoup to gather data, starting from one page and using loops to collect data from additional pages
-** Base Model **
+**Base Model**
 * Getting simple base model by relevance numerical features Feature Engineering
 * Converting categorical features to binary dummy variables
 * Adding complexity on base model by adding categorical dummies
