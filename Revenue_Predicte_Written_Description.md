@@ -22,6 +22,7 @@ After performing the initial EDA After cleaning the data, we got **1,500 rows** 
 # Methodology
 **Web Scrapping**
 1. Used BeautifulSoup to gather data, starting from one page and using loops to collect data from additional pages
+
 **Base Model**
 * Getting simple base model by relevance numerical features Feature Engineering
 * Converting categorical features to binary dummy variables
