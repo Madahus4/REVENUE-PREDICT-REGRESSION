@@ -17,7 +17,7 @@ After performing the initial EDA After cleaning the data, we got **1,500 rows** 
 * Actor Score,
 * Movie age
 
-#Methodology:
+# Methodology:
 ** Web Scrapping **
 1. Used BeautifulSoup to gather data, starting from one page and using loops to collect data from additional pages
 ** Base Model **
